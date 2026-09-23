@@ -1,21 +1,16 @@
-# HTML Portfolio
+# Engineering Portfolio
 
-A small static portfolio built with plain HTML and CSS.
+A modern static portfolio for Manish K S, focused on current software, AI/data and full-stack engineering work.
 
-## Included
-
-- Responsive portfolio landing page
-- Movie Ranking practice project
-- Birthday Invitation practice project
-- About and Contact pages
-- Local project images stored under `assets/images/`
+## Featured projects
+- Aegis Dispatch — real-time dispatch command console
+- SafePoint — resilient disaster shelter coordination concept
+- AI Chatbot — Next.js + AI SDK + PostgreSQL application
+- Weather Dashboard — Open-Meteo client-side weather app
+- Event Management System
 
 ## Run locally
-
-No build tools or dependencies are required. Open `index.html` in a browser or serve the repository with any static web server.
+Open `index.html` directly or serve the repository with any static web server.
 
 ## Deployment
-
-The project is suitable for static hosting such as GitHub Pages.
-
-All image references use repository-relative paths, so the site does not depend on a local development server.
+The repository is static and can be deployed to GitHub Pages or any static hosting provider.
